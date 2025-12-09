@@ -1,5 +1,5 @@
 # Tools-for-Data-Science-Final-Lab
-Tools for Data Science Final Lab: Module 2
+Tools for Data Science Final Lab
 
 ## Authors
 
